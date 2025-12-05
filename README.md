@@ -16,6 +16,11 @@ Track your daily expenses with ease using this **Python** and **Tkinter** applic
 
 ---
 
+## 🤖 AI-Assisted Improvement
+This project was improved using **ChatGPT assistance**, demonstrating how AI can help optimize code, improve structure, and enhance functionality while keeping readability and maintainability.  
+
+---
+
 ## 🧠 How It Works
 - Converts any entered currency to USD using a live API (`open.er-api.com`)  
 - Validates input: ensures **amount > 0** and numeric  
